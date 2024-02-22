@@ -1,0 +1,17 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Welcome to the Dashboard</h1>
+
+<p>This is your dashboard page. You can add your content here.</p>
+
+@if (User.IsInRole("Admin"))
+{
+    <p>You have administrator privileges.</p>
+}
+
+<p>
+    <a class="btn btn-danger" asp-controller="Account" asp-action="Login">Logout</a>
+</p>

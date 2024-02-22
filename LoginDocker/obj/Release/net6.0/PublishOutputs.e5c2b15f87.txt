@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LoginDocker\LoginDocker\obj\Release\net6.0\PubTmp\Out\LoginDocker.exe
+C:\Users\Admin\source\repos\LoginDocker\LoginDocker\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Admin\source\repos\LoginDocker\LoginDocker\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Admin\source\repos\LoginDocker\LoginDocker\obj\Release\net6.0\PubTmp\Out\LoginDocker.dll
+C:\Users\Admin\source\repos\LoginDocker\LoginDocker\obj\Release\net6.0\PubTmp\Out\LoginDocker.deps.json
+C:\Users\Admin\source\repos\LoginDocker\LoginDocker\obj\Release\net6.0\PubTmp\Out\LoginDocker.runtimeconfig.json
+C:\Users\Admin\source\repos\LoginDocker\LoginDocker\obj\Release\net6.0\PubTmp\Out\LoginDocker.pdb
